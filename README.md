@@ -1,24 +1,46 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails API App
 
-Things you may want to cover:
+>  The application is a an API that displays random greetings 
+## Built With
 
-* Ruby version
+- Languages: Ruby
+- Framework: Ruby on Rails
+- Database: PostgreSQL
 
-* System dependencies
 
-* Configuration
+## Link to Front-End App
+## [React App](https://github.com/d2ndjim/hello-rails-frontend)
 
-* Database creation
+## Usage
 
-* Database initialization
+Run the following commands:</br>
+`git clone https://github.com/d2ndjim/hello-rails-backend.git`</br>
+`cd hello-rails-backend`</br>
+`bundle install`</br>
+`bin/dev`</br>
+Open a browser and go to: `https://localhost:3000` to view the app.
 
-* How to run the test suite
+N/A
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
 
-* Deployment instructions
+👤 **Lekan Jimoh**
 
-* ...
+- GitHub: [@d2ndjim](https://github.com/d2ndjim)
+- Twitter: [@d2ndjim](https://twitter.com/d2ndjim_)
+- LinkedIn: [Lekan Jimoh](https://linkedin.com/in/lekanj)
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/d2ndjim/hello-rails-backend/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./license.md) licensed.
