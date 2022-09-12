@@ -35,7 +35,7 @@ N/A
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/d2ndjim/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/d2ndjim/hello-rails-backend/issues).
 
 ## Show your support
 
