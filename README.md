@@ -11,7 +11,7 @@
 
 
 ## Link to Front-End App
-## [React App]("https://github.com/d2ndjim/hello-rails-frontend")
+## [React App](https://github.com/d2ndjim/hello-rails-frontend)
 
 ## Usage
 
